@@ -24,27 +24,30 @@ I will add this to the growing list of items that I want to learn.
 
 ### Projects page
 
-I am currently in the process of adding a projects page.  Here are the highlights of what I'm currently doing to this page:
+I added my top three projects that I did while in class and added them to a card format.  Each one has:
 
- - Adding three new projects.
- - Turning the projects into Bootstrap card format
- - Adding pictures to each of the projects
+ - A picture of the app or project
+ - The name of the project
+ - A link to the project
+ - A general description of the project
+
+I also included a background color to separate it from the other areas.
 
 ### Experience page
 
-I am transforming the experience page to incorporate my experience from my resume.
+I used my experience from my resume for this page.
 
 ### Education page
 
-I am transforming the education page to incorporate my education from my resume.
+I incorporated my certificate from the UT Austin Data Analysis and Visualization Bootcamp and my years at Florida State
 
 ### Skills page
 
-I need to transform the skills page to reflect what are my current skills
+I transformed this page  to include two sections: my data analysis skills and my technical skills.
 
 ### Interests page
 
-I need to transform the interests page to reflect what are my current interests
+I transformed this page to reflect my interests.  I also added a background image of my garden.
 
 
 ### Awards page
@@ -62,6 +65,8 @@ I am using a new color palette for the website as I am not a huge fan of the bur
 - #1C3334
 
 I feel this gives the website a much more pleasing view.
+
+I also incorporated a fast forward icon as my tab icon.  I felt this was another way of using my initials, 'DD' in a way that also meant that I was ready to bring a company fast forward.
 
 I welcome any questions or comments you might have!!
 
