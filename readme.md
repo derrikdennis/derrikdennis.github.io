@@ -1,4 +1,4 @@
- # derrikdennis.github.io - A portfolio page for Derrik Dennis  <!-- omit in toc -->
+ # [A portfolio page for Derrik Dennis](https://derrikdennis.github.io)  <!-- omit in toc -->
 
 
 ## Table of Contents <!-- omit in toc -->
